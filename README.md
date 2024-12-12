@@ -1,2 +1,2 @@
-# EDA-Project-02
+# 02- Exploratory Data Analysis
 Exploratory Data Analysis about Roller Coasters
